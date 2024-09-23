@@ -8,6 +8,8 @@ La vitesse du vélo stationnaire définit la vitesse du véhicule, plus l’util
 
 On peut retrouver un frein relié à un moteur qui peut ralentir rapidement l’utilisateur et le véhicule.
 
+Ventilateur situé a l'avant en diagonal du vélo qui prend sa vitesse en fonction de la vitesse du vélo.
+
 Sur chaque côté des poignées se trouvent des boutons qui permettent de tourner à droite et à gauche.
 
 Il y a un garage permettant de faire des améliorations aux véhicules et même de changer de véhicules.
@@ -37,3 +39,13 @@ flowchart TD
     H --> J{Course2}
 
   ```
+
+## Ambiance
+
+## Moodboard
+
+## Technologie
+- Vélo Stationnaire
+- Ipad
+- Bouton
+- Ventilateur
