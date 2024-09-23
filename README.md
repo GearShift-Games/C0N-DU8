@@ -49,3 +49,9 @@ flowchart TD
 - Ipad
 - Bouton
 - Ventilateur
+
+##  Logiciel
+- Unity
+- Visual Studio Community 2022
+- Maya
+- Touch Designer
