@@ -17,7 +17,7 @@ Sur chaque côté des poignées se trouvent des boutons qui permettent de tourne
 
 Il y a un garage permettant de faire des améliorations aux véhicules et même de changer de véhicules.
 
-Dans la course, il y a plusieurs événements aléatoires et programmés comme la conduite des autres véhicules dans la course, des accidents qui peuvent bloquer la route, des événements météorologiques comme de la pluie ou du vent, l’usure des pneus pourrait rendre le véhicule plus instable, il faudrait alors aller au pit stop pour les changer.
+Dans la course, il y a plusieurs événements aléatoires et programmés comme la conduite des autres véhicules dans la course, des accidents qui peuvent bloquer la route, des événements météorologiques comme de la pluie ou du vent, l’usure des pneus pourrait rendre le véhicule plus instable.
 
 Collision avec autres véhicules activés.
 
