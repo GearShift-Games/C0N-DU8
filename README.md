@@ -4,6 +4,9 @@
 Course de véhicule style Nascar
 
 ## Objectif
+Donner de la motivation a améliorer son cardio par l'intermédiaire d'un jeu intéractif
+
+## Concept
 La vitesse du vélo stationnaire définit la vitesse du véhicule, plus l’utilisateur pédale vite, plus le véhicule accélèrent et le contraire se produit si l’utilisateur ralentit ou arrête de pédaler.
 
 On peut retrouver un frein relié à un moteur qui peut ralentir rapidement l’utilisateur et le véhicule.
