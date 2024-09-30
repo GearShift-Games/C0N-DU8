@@ -35,11 +35,15 @@ flowchart TD
     C -->|Consignes| E[Affiche Consignes]
     C -->|Quitter| F[Quitter l'expérience]
     F --> A
-    E[Affiche Consignes]--> |Menu| C[Menu]
-    D --> H{Choisir la course}
-    D --> I{Garage}
-    I --> C
-    
+    E[Affiche Consignes]--> |Menu| C{Menu}
+    D --> H[Choisir la course]
+    H --> J{course}
+    J --> |Recommencer| H
+    J --> |Retour menu| C
+    D --> I[Garage]
+    I --> H
+  
+   
 
   ```
 
@@ -58,3 +62,11 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 - Visual Studio Community 2022
 - Maya
 - Touch Designer
+
+## Références
+- [Référence1](https://www.clubpiscine.ca/images/detailed/117/Schwinn-24-190-Velo-Stationnaire-Vertical-177710-1.jpg)
+- [Référence2](https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/News/Standard/2018/04/04-22-Hairpin-Blinding-Sprays-ALA.jpg?vs=1&d=20180422T234030Z)
+- [Référence3](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo1dU64AMhI68syuVtUIBoF7c_xdoEQAiZCGAyBmDAPbQLik_V)
+- [Référence4](https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/software/switch/70010000048501/b316ae3121445fd241a09bd050fcf72c893a910d01701b283e044319a48681fd)
+- [Référence5](https://m.media-amazon.com/images/I/718x3CW0NPL._AC_UF894,1000_QL80_.jpg)
+- [Référence6](https://www.youtube.com/watch?v=Ub-VoLqGcx8)
