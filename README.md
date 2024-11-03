@@ -59,6 +59,9 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ![scenarimage4](img/scenarimage2.png)
 ![scenarimage5](img/scenarimage.png)
 ![scenarimage6](img/scenarimage1.png)
+
+## Illustrations des interactions
+![scenarimage6](img/control.png)
 ## Technologie
 - Vélo Stationnaire
 - Ipad
