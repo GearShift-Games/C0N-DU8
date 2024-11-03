@@ -69,11 +69,15 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 - Bouton
 - Ventilateur
 
+## Plantation
+![plantation](img/plantation.png)
+
 ##  Logiciel
 - Unity
 - Visual Studio Community 2022
 - Maya
 - Touch Designer
+- Arduino
 
 ## Références
 - Moodboard:
