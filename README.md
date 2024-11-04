@@ -67,10 +67,18 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 - Vélo Stationnaire
 - Ipad 
 - Bouton 
-- Haut-parleur ![scenarimage6](img/haut_parleur.png)
-- Lumiere ![scenarimage6](img/lumiere.jpg)
-- XLR ![scenarimage6](img/XRL.jpg)
-- XLR_USB ![scenarimage6](img/XRL-USB)
+- Haut-parleur
+  
+  ![scenarimage6](img/haut_parleur.png)
+- Lumiere
+  
+  ![scenarimage6](img/lumiere.jpg)
+- XLR
+  
+  ![scenarimage6](img/XRL.jpg)
+- XLR_USB
+  
+  ![scenarimage6](img/XRL-USB.jpg)
   
 ## Plantation
 ![plantation](img/plantation.png)
