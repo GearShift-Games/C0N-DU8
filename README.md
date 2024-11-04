@@ -67,8 +67,8 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ## Flux de données
 ![flux](img/flux.png)
 
-## Technologie
-- Vélo Stationnaire 
+## Listes d'équipements
+- Vélo Stationnaire modifié
 - Ipad 
 - Bouton
 - [Projecteur](https://www.amazon.ca/Epson-EX3280-Projector-Brightness-Speaker/dp/B09GQSK1BK)
