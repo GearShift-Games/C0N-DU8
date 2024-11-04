@@ -64,12 +64,14 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ![scenarimage6](img/control.png)
 ![scenarimage6](img/control3.png)
 ## Technologie
-- Vélo Stationnaire 
-- Ipad
-- Bouton
-- Haut-parleur
-- Lumiere
-
+- Vélo Stationnaire
+- Ipad 
+- Bouton 
+- Haut-parleur ![scenarimage6](img/haut_parleur.png)
+- Lumiere ![scenarimage6](img/lumiere.jpg)
+- XLR ![scenarimage6](img/XRL.jpg)
+- XLR_USB ![scenarimage6](img/XRL-USB)
+  
 ## Plantation
 ![plantation](img/plantation.png)
 ![plantation](img/Legende.png)
