@@ -63,6 +63,10 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ## Illustrations des interactions
 ![scenarimage6](img/control.png)
 ![scenarimage6](img/control3.png)
+
+## Flux de données
+![flux](img/flux.png)
+
 ## Technologie
 - Vélo Stationnaire 
 - Ipad 
