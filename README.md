@@ -64,10 +64,11 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ![scenarimage6](img/control.png)
 ![scenarimage6](img/control3.png)
 ## Technologie
-- Vélo Stationnaire
+- Vélo Stationnaire 
 - Ipad
 - Bouton
-- Ventilateur
+- Haut-parleur
+- Lumiere
 
 ## Plantation
 ![plantation](img/plantation.png)
