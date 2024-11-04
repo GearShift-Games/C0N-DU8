@@ -88,6 +88,13 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ## Plantation
 ![plantation](img/plantation.png)
 ![plantation](img/Legende.png)
+
+## Circulation des visiteurs
+Un utilisateur a la fois, celui-ci est amené a s'installer sur le vélo stationnaire et de commencer l'expérience avec l'écran positionner sur le vélo.
+
+## Gestion des câblages
+Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur et un point d'allimentation pour les lumieres
+
 ##  Logiciel
 - Unity
 - Visual Studio Community 2022
