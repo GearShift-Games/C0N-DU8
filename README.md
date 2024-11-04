@@ -23,7 +23,7 @@ Collision avec autres véhicules activés.
 
 Plusieurs pistes de course différentes demandant véhicules, pièce et conduite différente.
 
-Il y aurait aussi un bouton à gauche permettant de changer de caméra de véhicule et un a droite permettant d’activer un turbo temporaire.
+Il y aurait aussi un bouton à gauche permettant de freiner le véhicule et un a droite permettant d’activer un turbo temporaire.
 Easter Egg permettant d’avoir des power-up ou véhicule unique
 
 
