@@ -75,10 +75,10 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
   ![scenarimage6](img/lumiere.jpg)
 - XLR
   
-  ![scenarimage6](img/XRL.jpg)
+  ![scenarimage6](img/xlr.jpg)
 - XLR_USB
   
-  ![scenarimage6](img/XRL-USB.jpg)
+  ![scenarimage6](img/xlrusb.jpg)
   
 ## Plantation
 ![plantation](img/plantation.png)
