@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ## Plantation
 ![plantation](img/plantation.png)
 ![plantation](img/Legende.png)
-![plantation](img/mesure_approximatives_peux_et_vas_changer.PNG)
+![plantation](img/mesure_approximatives_vas_changer.PNG)
 
 ## Circulation des visiteurs
 Un utilisateur a la fois, celui-ci est amené a s'installer sur le vélo stationnaire et de commencer l'expérience avec l'écran positionner sur le vélo.
