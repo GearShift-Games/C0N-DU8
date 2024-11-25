@@ -1,4 +1,6 @@
-# Projet: 
+# Projet: C0N DU8 Absurdement Dangeureuse
+
+![logo](img/logo_condu8.phg)
 
 ## Idée
 Course de véhicule style Nascar
