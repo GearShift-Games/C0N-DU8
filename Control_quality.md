@@ -3,7 +3,7 @@
 
 CON D83 (conduite) est un jeu de course interactif intense plein de rebondissements et légèrement humoristique dans lequel l'utilisateur contrôle son véhicule à l'aide d'un vélo stationnaire.
 
-# MVP
+# MVP (Minimal Viable Product)
 
 ## Visuel
 
@@ -37,3 +37,23 @@ CON D83 (conduite) est un jeu de course interactif intense plein de rebondisseme
 - R4: Problèmes de projection
 - R5: Unreal Engine
 - R6: L'utilisateur se blesse
+
+DESCRIPTION DU PLAN DE TESTS DE RISQUES ICITTE OR SMTH
+
+# Tests à réaliser
+## Scénarios
+
+| Scénario 1 |   |
+|------------|---|
+
+| Identification    |   |
+|-------------------|---|
+| Priorité          |   |
+| Date Limite       |   |
+| Description       |   |
+| Contraintes       |   |
+| Dépendances       |   |
+| Procédure de test |   |
+| Résultat          |   |
+
+# Gestion de problèmes
