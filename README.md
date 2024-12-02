@@ -3,7 +3,7 @@
 ![logo](img/logo_condu8.png)
 
 ## Idée
-Course de véhicule style Nascar
+Course de véhicule dans un style de jeu d'arcade.
 
 ## Objectif
 Donner à l'utilisateur la motivation d'améliorer son cardio par l'intermédiaire d'un jeu intéractif
@@ -26,24 +26,32 @@ Collision avec autres véhicules activés.
 Plusieurs pistes de course différentes demandant véhicules, pièce et conduite différente.
 
 Il y aurait aussi un bouton à gauche permettant de freiner le véhicule et un a droite permettant d’activer un turbo temporaire.
-Easter Egg permettant d’avoir des power-up ou véhicule unique
 
 
 ## Scénario
 ```mermaid
 flowchart TD
-    A[Veille] -->|Interaction| C(Menu)
+    A[Veille] -->|Interaction| B[Gagne aléatoirement 4 véhicules]
+    B --> C{Menu}
     C -->|Jouer| D[Commence le jeu]
-    C -->|Consignes| E[Affiche Consignes]
+    C -->|Instructions| E[Affiche les instructions]
     C -->|Quitter| F[Quitter l'expérience]
     F --> A
-    E[Affiche Consignes]--> |Menu| C{Menu}
-    D --> H[Choisir la course]
+    E--> |Menu| C
     H --> J{course}
-    J --> |Recommencer| H
-    J --> |Retour menu| C
+    J --> K[Course continue]
+    K -->|Denrier Tour fini| M[Fin de course]
+    K -->|Pédale| N[Accélère]
+    K -->|Prend des dégâts| O[Ralenti grandement]
+    O --> K
+    P --> K
+    K -->|Attaque un ennemi| P[Ennemi ralenti grandement]
+    N --> K
+    M --> Q[Gagne une récompense]
+    Q --> |Recommencer| H
+    Q --> |Retour menu| C
     D --> I[Garage]
-    I --> H
+    I --> H[Choisir la course]
   
    
 
