@@ -80,7 +80,7 @@ flowchart TD
 
 ## Listes d'équipements
 - Vélo Stationnaire modifié
-- Ipad 
+- Écran tactile 
 - Bouton
 - [Projecteur](https://www.amazon.ca/Epson-EX3280-Projector-Brightness-Speaker/dp/B09GQSK1BK)
 - [Haut-parleur](https://www.genelec.com/8040b)
