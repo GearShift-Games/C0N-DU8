@@ -172,6 +172,26 @@ La création de jeux vidéos, la modélistion 3D et la programmation, est un rê
 ## Étude de risques
 
 
+```mermaid
+gantt
+    title Échéancier expérience multimédia interactive
+    dateFormat  YYYY-MM-DD
+    section Conception
+    Scénarisation du projet        :a1, 2024-12-13, 5w
+    section Planification
+    Planification du projet        :a1, 2025-01-21, 2w
+    section Production
+    Production des contenus      :a2, after a1, 5w
+    Installation technique       :a3, after a1, 5w
+    section Tests et ajustements
+    Tests et ajustements finaux  :a4, 2025-03-10, 1w
+    section Diffusion
+    Semaine de diffusion         :a5, 2025-03-17, 1w
+    section Démontage
+    Démontage                    :a6, after a5, 1d
+```
+
+
 # Références
 - Moodboard:
 - [Référence1](https://www.clubpiscine.ca/images/detailed/117/Schwinn-24-190-Velo-Stationnaire-Vertical-177710-1.jpg)
