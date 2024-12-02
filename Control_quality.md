@@ -57,18 +57,32 @@ DESCRIPTION DU PLAN DE TESTS DE RISQUES ICITTE OR SMTH
 
 # Tests à réaliser
 ## Scénarios
-
-| Scénario 1 |   |
+ 
+| Scénario 1 | L'utilisateur n'a pas encore été détecté par le capteur. Il voit un avant-goût de l'oeuvre par une vidéo en boucle projeter à l'écran.  |
 |------------|---|
-
-| Identification    |   |
+ 
+| Identification    | 1.1  Projection déclanché par défault|
+|-------------------|---|
+| Priorité          | Faible  |
+| Date Limite       |   |
+| Description       | S'assurer que dès le lancement de l'oeuvre, une vidéo joue en boucle |
+| Contraintes       |  |
+| Dépendances       | S'assurer que le l'ordinateur et la projection communiquent en harmonie.  |
+| Procédure de test |  Données d’entrée : Vidéo de départ Résultats attendus : Projection de la vidéo. Critères de validation : On voit la vidéo. |
+| Résultat          |   |
+ 
+| Scénario 2 |  L'utilisateur est détecté par le capteur.|
+|------------|---|
+ 
+| Identification    | 2.1  |
 |-------------------|---|
 | Priorité          |   |
 | Date Limite       |   |
-| Description       |   |
-| Contraintes       |   |
-| Dépendances       |   |
-| Procédure de test |   |
+| Description       | S'assurer que dès le lancement de l'oeuvre, une vidéo joue en boucle jusqu'à ce qu'un utilisateur soit détecté. S'assurer que si le capteur arrête de capté un utilisateur pour plus de 10 secondes, la vidéo continue ou elle c'était arrêtée.  |
+| Contraintes       | Configurer le capteur afin de s'assurer que seulement la présence d'un utilisateur soit détecter.  |
+| Dépendances       | S'assurer que le capteur et la projection communiquent en harmonie.  |
+| Procédure de test |   Données d’entrée : Vidéo de départ, entrée de l'utilisateur Résultats attendus : Projection de la vidéo interrompu par la présence de l'utilisateur. Critères de validation : Vidéo interrompu, le menu apparâit. |
 | Résultat          |   |
+
 
 # Gestion de problèmes
