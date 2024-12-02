@@ -164,7 +164,7 @@ J'ai toujours voulu faire un jeu vidéo et j'ai toujours aimé l'animation 3d. C
 Je suis motivé par l'approche de comment contrôler un jeu d'une façon unique et bénéfique pour la santé humaine.
 
 ### Jérémy Roy-Côté
-
+La création de jeux vidéos, la modélistion 3D et la programmation, est un rêve d'enfance. Je pense aussi que ca serait une bonne expérience pour le marcher du travail et bon pour mettre dans mon portfolio.
 
 ### Keven Malric
 
