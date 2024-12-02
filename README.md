@@ -1,4 +1,6 @@
-# Projet: C0N DU8 Absurdement Dangeureuse
+# Concept
+## Titre
+C0N DU8 Absurdement Dangeureuse
 
 ![logo](img/logo_condu8.png)
 
@@ -8,7 +10,7 @@ Course de véhicule dans un style de jeu d'arcade.
 ## Objectif
 Donner à l'utilisateur la motivation d'améliorer son cardio par l'intermédiaire d'un jeu intéractif
 
-## Concept
+## Pitch
 La vitesse du vélo stationnaire définit la vitesse du véhicule, plus l’utilisateur pédale vite, plus le véhicule accélèrent et le contraire se produit si l’utilisateur ralentit ou arrête de pédaler.
 
 On peut retrouver un frein relié à un moteur qui peut ralentir rapidement l’utilisateur et le véhicule.
@@ -25,7 +27,25 @@ Plusieurs pistes de course différentes demandant véhicules, pièce et conduite
 
 Il y aurait aussi un bouton à gauche permettant de freiner le véhicule et un a droite permettant d’activer un turbo temporaire.
 
+# Artisitque
+## Ambiance
+https://www.youtube.com/watch?v=Ub-VoLqGcx8
+## Moodboard
+![Moodboard.png](img/Moodboard.png)
 
+## Scenarimage
+![scenarimage1](img/scenarimage5.png)
+![scenarimage2](img/scenarimage4.png)
+![scenarimage3](img/scenarimage3.png)
+![scenarimage4](img/scenarimage2.png)
+![scenarimage5](img/scenarimage.png)
+![scenarimage6](img/scenarimage1.png)
+
+## Illustrations des interactions
+![scenarimage6](img/control.png)
+![scenarimage6](img/control3.png)
+
+# Technique
 ## Scénario
 ```mermaid
 flowchart TD
@@ -55,29 +75,12 @@ flowchart TD
 
   ```
 
-## Ambiance
-https://www.youtube.com/watch?v=Ub-VoLqGcx8
-## Moodboard
-![Moodboard.png](img/Moodboard.png)
-
-## Scenarimage
-![scenarimage1](img/scenarimage5.png)
-![scenarimage2](img/scenarimage4.png)
-![scenarimage3](img/scenarimage3.png)
-![scenarimage4](img/scenarimage2.png)
-![scenarimage5](img/scenarimage.png)
-![scenarimage6](img/scenarimage1.png)
-
-## Illustrations des interactions
-![scenarimage6](img/control.png)
-![scenarimage6](img/control3.png)
-
 ## Flux de données
 ![flux](img/flux.png)
 
 ## Listes d'équipements
 - Vélo Stationnaire modifié
-- Ipad 
+- Écran tactile 
 - Bouton
 - [Projecteur](https://www.amazon.ca/Epson-EX3280-Projector-Brightness-Speaker/dp/B09GQSK1BK)
 - [Haut-parleur](https://www.genelec.com/8040b)
@@ -102,7 +105,7 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 Un utilisateur a la fois, celui-ci est amené a s'installer sur le vélo stationnaire et de commencer l'expérience avec l'écran positionner sur le vélo.
 
 ## Gestion des câblages
-Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur et un point d'allimentation pour les lumieres
+Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur et un point d'allimentation pour les lumieres.
 
 ##  Logiciel
 - Unity
@@ -111,7 +114,65 @@ Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur 
 - Touch Designer
 - Arduino
 
-## Références
+# Gestion d'équipe
+## Distribution des tâches
+### Programmation Engine
+- Alexandre Gervais
+- Jérémy Roy-Côté
+
+### Programmation Arduino et autres
+- Alexandre Gervais
+- Jérémy Roy-Côté
+
+### Modélisation Véhicules
+- Ian Corbin
+- Samuel Desmeules-Voyer
+- Alexandre Gervais
+- Jérémy Roy-Côté
+- Keven Malric
+
+### Animations
+- Samuel Desmeules-Voyer
+
+### Environnement 3D
+- Ian Corbin
+
+### Ambiance Général
+
+
+### Installation de l'oeuvre
+- Keven Malric
+
+### VFX
+
+
+### Montage Sonore
+
+
+
+## Motivations
+### Équipe
+
+
+### Ian Corbin
+
+
+### Samuel Desmeules-Voyer
+
+
+### Alexandre Gervais
+Je suis motivé par l'approche de comment contrôler un jeu d'une façon unique et bénéfique pour la santé humaine.
+
+### Jérémy Roy-Côté
+
+
+### Keven Malric
+
+
+## Étude de risques
+
+
+# Références
 - Moodboard:
 - [Référence1](https://www.clubpiscine.ca/images/detailed/117/Schwinn-24-190-Velo-Stationnaire-Vertical-177710-1.jpg)
 - [Référence2](https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/News/Standard/2018/04/04-22-Hairpin-Blinding-Sprays-ALA.jpg?vs=1&d=20180422T234030Z)
