@@ -140,8 +140,8 @@ Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur 
 ### Ambiance Général
 
 
-### Montage de la scène
-
+### Installation de l'oeuvre
+- Keven Malric
 
 ### VFX
 
