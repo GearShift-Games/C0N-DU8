@@ -56,11 +56,14 @@ CON D83 (conduite) est un jeu de course interactif intense plein de rebondisseme
 Initialement on vas tester Unreal Engine et si on arrive pas à de manière efficace rapidement, on commence à travailler dans unity. (R5)
 
 Nous allons continuer par nous assurer dans les premières semaines que le capteur de mouvement détecte la position de l'utilisateur et retourne une valeur gauche / droite selon la distance par rapport au millieu. (R1) 
-Ensuite, nous nous assurerons que la détection de pédales fonctionnent selon la vitesse que l'utilisateur pédale (R2) et que la vitesse de transmission des données ne soit pas inconsistante. (R3)
+
+Ensuite, nous nous assurerons que la détection de pédales fonctionnent selon la vitesse que l'utilisateur pédale (R2) et que la vitesse de transmission des données ne soit pas inconsistante. (R3) Nous allons aussi trouver un moyens de changer la vitesse du ventilateur selon la vitesse des pédales. (R11)
 
 Selon le lieu, nous allons vérifier l'éclairage (R8) et l'espace nécessaire pour la projection durant la présentation. (R4)
 
-Pour réduire les chances de blessure de l'utilisateur, nous allons tester par nous même des scénario et des possibilité de blessure et nous allons nous informé des information nécessaire avec les gardes. Selon le lieu, nous aurons des garde de sécurité pour nous aider et / ou une personne de notre équipe capable de premier soin mineure. Durant ces test, nous allons voir a quel point une personne peux se pencher avant que le vélo deviennent instable et si le point d'équilibre est trop proche ou restrictif, nous allons trouver une façons de le rendre plus stable.
+Pour réduire les chances de blessure de l'utilisateur, nous allons tester par nous même des scénario et des possibilité de blessure et nous allons nous informé des information nécessaire avec les gardes. Selon le lieu, nous aurons des garde de sécurité pour nous aider et / ou une personne de notre équipe capable de premier soin mineure. (R6) Durant ces test, nous allons voir a quel point une personne peux se pencher avant que le vélo deviennent instable et si le point d'équilibre est trop proche ou restrictif, nous allons trouver une façons de le rendre plus stable. (R7)
+
+Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doit la remplacer, 
 
 
 DESCRIPTION DU PLAN DE TESTS DE RISQUES ICITTE OR SMTH
@@ -84,15 +87,90 @@ DESCRIPTION DU PLAN DE TESTS DE RISQUES ICITTE OR SMTH
 | Scénario 2 |  L'utilisateur est détecté par le capteur.|
 |------------|---|
  
-| Identification    | 2.1  |
+| Identification    | 2.1  Vidéo arrêter par la détection de l'interracteur|
 |-------------------|---|
 | Priorité          |   |
 | Date Limite       |   |
-| Description       | S'assurer que dès le lancement de l'oeuvre, une vidéo joue en boucle jusqu'à ce qu'un utilisateur soit détecté. S'assurer que si le capteur arrête de capté un utilisateur pour plus de 10 secondes, la vidéo continue ou elle c'était arrêtée.  |
+| Description       | S'assurer que dès le lancement de l'oeuvre, une vidéo joue en boucle jusqu'à ce qu'un utilisateur soit détecté.|
 | Contraintes       | Configurer le capteur afin de s'assurer que seulement la présence d'un utilisateur soit détecter.  |
 | Dépendances       | S'assurer que le capteur et la projection communiquent en harmonie.  |
 | Procédure de test |   Données d’entrée : Vidéo de départ, entrée de l'utilisateur Résultats attendus : Projection de la vidéo interrompu par la présence de l'utilisateur. Critères de validation : Vidéo interrompu, le menu apparâit. |
 | Résultat          |   |
-
+ 
+| Identification    | 2.2  L'utilisateur n'est plus détecté par le capteur. La vidéo du départ reviens
+|-------------------|---|
+| Priorité          |   |
+| Date Limite       |   |
+| Description       | S'assurer que si le capteur arrête de capté un utilisateur pour plus de 10 secondes, la vidéo continue ou elle c'était arrêtée.  |
+| Contraintes       | Configurer le capteur afin qu'il détecte qu'il n'y a plus d'utilisateur  |
+| Dépendances       | S'assurer que le capteur, l'ordinateur et la projection communiquent en harmonie.  |
+| Procédure de test |   Données d’entrée : Menu principal, départ de l'utilisateur Résultats attendus : Compte à rebourd lancé . Critères de validation : La vidéo par défault reprend ou elle c'était arrêtée 10 secondes apres le départ de l'utilisateur |
+| Résultat          |   |
+ 
+| Scénario 3 | L'utilisateur interragit avec le menu.  |
+|------------|---|
+ 
+| Identification    | 3.1  Personnalisation du véhicule|
+|-------------------|---|
+| Priorité          | Faible  |
+| Date Limite       |   |
+| Description       | S'assurer que l'utilisateur est capable de naviguer à travers le menu et de modifier son véhicule par défaut. |
+| Contraintes       |  ... |
+| Dépendances       | ...  |
+| Procédure de test |  Données d’entrée : Interraction utilisateur Résultats attendus : Modifications visuels du véhicules. Critères de validation : On voit les modifications à l'écran. |
+| Résultat          |   |
+ 
+| Identification    | 3.2  Départ de la course|
+|-------------------|---|
+| Priorité          | Extrème  |
+| Date Limite       |   |
+| Description       | S'assurer que l'utilisateur est capable de lancer une course |
+| Contraintes       |  ... |
+| Dépendances       | ...  |
+| Procédure de test |  Données d’entrée : Interraction utilisateur Résultats attendus : Changement de scène Critères de validation : Lancement de la course à l'écran |
+| Résultat          |   |
+ 
+| Scénario 4 | L'utilisateur interragit avec le vélo stationnaire  |
+|------------|---|
+ 
+| Identification    | 4.1  L'utilisateur pédale|
+|-------------------|---|
+| Priorité          | Faible  |
+| Date Limite       |   |
+| Description       | S'assurer que les mouvements des pédales font avancer le véhicule |
+| Contraintes       |  ... |
+| Dépendances       | ...  |
+| Procédure de test |  Données d’entrée : Donnés Arduino de mouvement des pédales Résultats attendus : Donnés transformé en vélocité affectant le véhicule. Critères de validation : On voit le véhicule avancé relativement à la vitesse du vélo. |
+| Résultat          |   |
+ 
+| Identification    | 4.2  L'utilisateur Freine|
+|-------------------|---|
+| Priorité          | Faible  |
+| Date Limite       |   |
+| Description       | S'assurer que lorsque l'utilisateur utilise le frein, le véhicule rallenti jusqu'a s'immobiliser |
+| Contraintes       |  ... |
+| Dépendances       | ...  |
+| Procédure de test |  Données d’entrée : Donnés Arduino de l'actionnement du frein Résultats attendus : Donnés transformé en vélocité affectant le véhicule. Critères de validation : On voit le véhicule ralentir relativement au maintient du frein sur le vélo. |
+| Résultat          |   |
+ 
+| Identification    | 4.2  L'utilisateur utilise le turbo|
+|-------------------|---|
+| Priorité          | Faible  |
+| Date Limite       |   |
+| Description       | S'assurer que lorsque l'utilisateur  actionne le bouton du turbo, le véhicule va 2 fois plus vite que sa vitesse maximal pendant une période de 3 secondes |
+| Contraintes       |  ... |
+| Dépendances       | ...  |
+| Procédure de test |  Données d’entrée : Donnés Arduino de l'actionnement bouton Résultats attendus : Donnés transformé en vélocité affectant le véhicule et neutralisant pendant le temps du turbo la relation entre les pédales et la vélocité. Critères de validation : On voit le véhicule accélérer rapidement pendant 3 secondes. |
+| Résultat          |   |
+ 
+| Identification    | 4.3  L'utilisateur se penche afin de tourner|
+|-------------------|---|
+| Priorité          | Faible  |
+| Date Limite       |   |
+| Description       | S'assurer que lorsque l'utilisateur se penche dans une certaine direction, le capteur tourne le véhicule en fonction de cette direction. |
+| Contraintes       |  ... |
+| Dépendances       | ...  |
+| Procédure de test |  Données d’entrée : Donnés Arduino du capteur Résultats attendus : Donnés transformé en direction gauche/droite affectant la direction du véhicule Critères de validation : Quand l'utilisateur se penche vers la droite/gauche le véhicule tourne dans cette direction. |
+| Résultat          |   |
 
 # Gestion de problèmes
