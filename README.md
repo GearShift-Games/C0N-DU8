@@ -158,7 +158,7 @@ Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur 
 
 
 ### Samuel Desmeules-Voyer
-
+J'ai toujours voulu faire un jeu vidéo et j'ai toujours aimé l'animation 3d. Ce projet me permet d'acomplire un rêve d'enfance.
 
 ### Alexandre Gervais
 Je suis motivé par l'approche de comment contrôler un jeu d'une façon unique et bénéfique pour la santé humaine.
