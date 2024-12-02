@@ -155,7 +155,7 @@ Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur 
 
 
 ### Ian Corbin
-
+Je suis motivé par l'idée de créer un jeu interractif controlée par un vélo stationnaire. Un projet qui donne l'occasion aux utilisateurs de dépenser une grande quantité d'énergie par la motivation de gagner une course de voitures.
 
 ### Samuel Desmeules-Voyer
 J'ai toujours voulu faire un jeu vidéo et j'ai toujours aimé l'animation 3d. Ce projet me permet d'acomplire un rêve d'enfance.
