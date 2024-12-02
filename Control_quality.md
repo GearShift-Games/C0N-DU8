@@ -45,8 +45,13 @@ CON D83 (conduite) est un jeu de course interactif intense plein de rebondisseme
 - R2: Détection des pédales marche pas
 - R3: Détection des intreractions inconsistante
 - R4: Problèmes de projection
-- R5: Unreal Engine
+- R5: On arive pas à utiliser Unreal Engine
 - R6: L'utilisateur se blesse
+- R7: Le vélo stationnaire tombe
+- R8: Projection pas clair (trop de lumière)
+- R9: Un d'entre nous échoue un cours
+
+Nous allons nous assurer dans les premières semaines que la caméra détecte la position de l'utilisateur et retourne une valeur gauche / droite selon la distance par rapport au millieu. (R1) Nous allons en même 
 
 DESCRIPTION DU PLAN DE TESTS DE RISQUES ICITTE OR SMTH
 
