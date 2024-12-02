@@ -22,6 +22,16 @@ CON D83 (conduite) est un jeu de course interactif intense plein de rebondisseme
 - Frein fonctionel
 - Fin de la course
 
+## Matériel
+
+- 1 Projecteur
+- 1 Vélo Stationnaire
+- 2 Hauts Parleurs
+- 1 capteur opencv blob tracking centroid
+- 1 Écran Tactile
+- 2 Bouton
+ 
+
 
 # [Lien GitHub](https://github.com/GearShift-Games/CON-D83/tree/main)
 
