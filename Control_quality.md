@@ -53,6 +53,8 @@ CON D83 (conduite) est un jeu de course interactif intense plein de rebondisseme
 - R10: Un bris / usure de matériel
 - R11: controle du ventilateur selon la vitesse
 
+![img/risques.drawio.png](img/risques.drawio.png)
+
 Initialement on vas tester Unreal Engine et si on arrive pas à de manière efficace rapidement, on commence à travailler dans unity. (R5)
 
 Nous allons continuer par nous assurer dans les premières semaines que le capteur de mouvement détecte la position de l'utilisateur et retourne une valeur gauche / droite selon la distance par rapport au millieu. (R1) 
