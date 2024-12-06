@@ -27,6 +27,9 @@ Plusieurs pistes de course différentes demandant véhicules, pièce et conduite
 
 Il y aurait aussi un bouton à gauche permettant de freiner le véhicule et un a droite permettant d’activer un turbo temporaire.
 
+## Intégration au thème global
+Les circuits et les objets disponibles durant les courses auront tous un lien direct avec le thème de [Insert theme here].
+
 # Artisitque
 ## Ambiance
 https://www.youtube.com/watch?v=Ub-VoLqGcx8
