@@ -171,5 +171,3 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | ...  |
 | Procédure de test |  Données d’entrée : Donnés Arduino du capteur Résultats attendus : Donnés transformé en direction gauche/droite affectant la direction du véhicule Critères de validation : Quand l'utilisateur se penche vers la droite/gauche le véhicule tourne dans cette direction. |
 | Résultat          |   |
-
-# Gestion de problèmes
