@@ -120,10 +120,12 @@ Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur 
 # Gestion d'équipe
 ## Distribution des tâches
 ### Programmation Engine
+- Ian Corbin
 - Alexandre Gervais
 - Jérémy Roy-Côté
 
 ### Programmation Arduino et autres
+- Ian Corbin
 - Alexandre Gervais
 - Jérémy Roy-Côté
 
@@ -141,33 +143,34 @@ Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur 
 - Ian Corbin
 
 ### Ambiance Général
-
+- Jérémy Roy-Côté
+- Keven Malric
 
 ### Installation de l'oeuvre
 - Keven Malric
 
 ### VFX
-
+- Keven Malrci
 
 ### Montage Sonore
-
+- Alexandre Gervais
 
 
 ## Motivations
 ### Équipe
-
+Notre équipe est motivé par l'opportunité de réaliser un jeu vidéo qui est assemblé en 3D et qui amènera les utilisateurs à faire une activité saine pour jouer au jeu.
 
 ### Ian Corbin
-Je suis motivé par l'idée de créer un jeu interractif controlée par un vélo stationnaire. Un projet qui donne l'occasion aux utilisateurs de dépenser une grande quantité d'énergie par la motivation de gagner une course de voitures.
+Je suis motivé par l'idée de créer un jeu interactif contrôlé par un vélo stationnaire. Un projet qui donne l'occasion aux utilisateurs de dépenser une grande quantité d'énergie par la motivation de gagner une course de voitures.
 
 ### Samuel Desmeules-Voyer
-J'ai toujours voulu faire un jeu vidéo et j'ai toujours aimé l'animation 3d. Ce projet me permet d'acomplire un rêve d'enfance.
+J'ai toujours voulu faire un jeu vidéo et j'ai toujours aimé l'animation 3D. Ce projet me permet d'accomplire un rêve d'enfance.
 
 ### Alexandre Gervais
-Je suis motivé par l'approche de comment contrôler un jeu d'une façon unique et bénéfique pour la santé humaine.
+Je suis motivé par l'approche de comment contrôler un jeu d'une façon unique et bénéfique pour la santé humaine avec des médias de qualité. Faire au moins un jeu vidéo est un rêve depuis que je suis tout jeune.
 
 ### Jérémy Roy-Côté
-La création de jeux vidéos, la modélistion 3D et la programmation, est un rêve d'enfance. Je pense aussi que ca serait une bonne expérience pour le marcher du travail et bon pour mettre dans mon portfolio.
+La création de jeux vidéos, la modélistion 3D et la programmation, est un rêve d'enfance. Je pense aussi que ça sera une bonne expérience pour le marché du travail et bon pour mettre dans mon portfolio.
 
 ### Keven Malric
 
