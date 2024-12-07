@@ -37,16 +37,15 @@ https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ![Moodboard.png](img/Moodboard.png)
 
 ## Scenarimage
-![scenarimage1](img/scenarimage5.png)
-![scenarimage2](img/scenarimage4.png)
+![scenarimage1](img/scenarimage1.png)
+![scenarimage2](img/scenarimage2.png)
 ![scenarimage3](img/scenarimage3.png)
-![scenarimage4](img/scenarimage2.png)
-![scenarimage5](img/scenarimage.png)
-![scenarimage6](img/scenarimage1.png)
+![scenarimage4](img/scenarimage4.png)
+
 
 ## Illustrations des interactions
-![scenarimage6](img/control.png)
-![scenarimage6](img/control3.png)
+![scenarimage6](img/interraction1.png)
+![scenarimage6](img/interraction2.png)
 
 # Technique
 ## Scénario
