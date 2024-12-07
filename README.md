@@ -161,13 +161,13 @@ Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur 
 Notre équipe est motivé par l'opportunité de réaliser un jeu vidéo qui est assemblé en 3D et qui amènera les utilisateurs à faire une activité saine pour jouer au jeu.
 
 ### Ian Corbin
-Je suis motivé par l'idée de créer un jeu interactif contrôlé par un vélo stationnaire. Un projet qui donne l'occasion aux utilisateurs de dépenser une grande quantité d'énergie par la motivation de gagner une course de voitures.
+Ce qui me motive, c’est l’idée de créer un jeu interactif contrôlé par un vélo stationnaire, un projet qui combine activité physique et immersion ludique. J’ai à cœur d’offrir aux utilisateurs une expérience unique, où l’effort physique devient une source de motivation et de satisfaction en les poussant à se dépasser pour remporter une course palpitante.
 
 ### Samuel Desmeules-Voyer
 J'ai toujours voulu faire un jeu vidéo et j'ai toujours aimé l'animation 3D. Ce projet me permet d'accomplire un rêve d'enfance.
 
 ### Alexandre Gervais
-Je suis motivé par l'approche de comment contrôler un jeu d'une façon unique et bénéfique pour la santé humaine avec des médias de qualité. Faire au moins un jeu vidéo est un rêve depuis que je suis tout jeune.
+Je suis motivé par l'approche de comment contrôler un jeu d'une façon unique et bénéfique pour la santé humaine avec des médias de qualité et de l'humour. Faire au moins un jeu vidéo est un rêve depuis que je suis tout jeune.
 
 ### Jérémy Roy-Côté
 La création de jeux vidéos, la modélistion 3D et la programmation, est un rêve d'enfance. Je pense aussi que ça sera une bonne expérience pour le marché du travail et bon pour mettre dans mon portfolio.
