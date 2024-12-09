@@ -144,12 +144,13 @@ Un point d'allimentation pour le vélo stationnaire, projecteur et haut-parleur 
 ### Ambiance Général
 - Jérémy Roy-Côté
 - Keven Malric
-
+- ian cobrin
+  
 ### Installation de l'oeuvre
 - Keven Malric
 
 ### VFX
-- Keven Malrci
+- Keven Malric
 
 ### Montage Sonore
 - Alexandre Gervais
